@@ -1,1 +1,2 @@
 # traffic-ticket-master
+A automatic traffic ticketing system that mimics the modle to read the details from NFC card present inside a miniature car to get details of the driver and auto send fine and violations when the user violates traffic light 
